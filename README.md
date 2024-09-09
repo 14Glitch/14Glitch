@@ -15,6 +15,9 @@
   <p>
    <img src="https://c.tenor.com/ItlVfQ5tMv0AAAAd/tenor.gif" alt="CL Thumb" border="0" width="60%">
   </p>
+<p>
+   <img src="https://c.tenor.com/ItlVfQ5tMv0AAAAd/tenor.gif" alt="CL Thumb" border="0" width="60%">
+  </p>
  
 <div> 
   <a href="https://www.youtube.com/channel/UC8z4pn_IGKtLr3sepcUmh9g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
