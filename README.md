@@ -12,9 +12,6 @@
   
   ##
 
-  <p>
-   <img src="https://c.tenor.com/ItlVfQ5tMv0AAAAd/tenor.gif" alt="CL Thumb" border="0" width="60%">
-  </p>
 <p>
    <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="CL Thumb" border="0" width="60%">
   </p>
